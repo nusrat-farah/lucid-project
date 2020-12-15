@@ -1,0 +1,249 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	font-height:24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+a, a:hover{
+	font-family: 'Source Sans Pro', sans-serif;
+	text-decoration: none;
+}
+
+
+
+/*header section start*/
+
+.header-section{
+	width: 100%;
+	background: url(../images/bg.png) center top no-repeat;
+	background-size: cover; 
+}
+.menu-section{
+	width:100%;
+}
+.menu-section .bg-light{
+	background: transparent !important;
+
+}
+
+.menu-section .bg-light .t-auto{
+	margin-left:auto;
+}
+
+.menu-section .bg-light .navbar-nav .nav-link.active{
+	color: #fff;
+}
+.menu-section .bg-light .navbar-nav .nav-link{
+	color: #fff;
+	font-size: 14px
+	font-weight:600;
+	text-transform: uppercase;
+	margin: 0px 0px 0px 15px;
+}
+.menu-section .bg-light .navbar-nav .nav-link:hover, .menu-section .bg-light .navbar-nav .nav-link:focus{
+	color:#fff;
+	background: url(../images/hr.png) center bottom no-repeat;
+}
+.banner{
+	width:100%;
+	padding:80px 0px;
+}
+.banner .inner-banner{
+	width:100%;
+	padding:40px 0px;
+}
+.banner .inner-banner h5{
+	color: #008ed6;
+	font-size: 18px
+	line-height:28px;
+	font-weight:600;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	
+}
+.banner .inner-banner h2{
+	color: #fff;
+	font-size: 42px
+	line-height:45px;
+	font-weight:600;
+	letter-spacing: 3px;
+	margin: 15px 0px 15px;
+}
+.banner .inner-banner p{
+	color: #616162;
+	font-size: 16px
+	line-height:26px;
+	font-weight:500;
+
+}
+
+.banner .btn-inner{
+	width:100%;
+	padding:25px 0px;
+}
+.banner .btn-inner .btn-primary{
+    padding: 12px 25px;
+	border-radius: 3px;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-transform:uppercase;
+	background-color: #008ed6;
+    border: 1px solid #008ed6;
+	color:#fff;
+	transition:.1s ease-in; 
+}
+
+.banner .btn-inner .btn-primary:hover, .banner .btn-inner .btn-primary:focus{
+	background-color:transparent;
+    border: 1px solid #008ed6;
+	color:#008ed6;
+}
+
+.banner .btn-inner .btn-light{
+    padding: 12px 25px;
+	border-radius: 3px;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	text-transform:uppercase;
+	background-color: transparent;
+    border: 1px solid #616162;
+	color:#fff;
+	margin-left:15px; 
+	transition:.1s ease-in; 
+}
+
+.banner .btn-inner .btn-light:hover, .banner .btn-inner .btn-light:focus{
+	background-color:transparent;
+    border: 1px solid #008ed6;
+	color:#008ed6;
+}
+/*header section end*/
+
+/*feature section start*/
+
+
+.feature-section{
+	width:100%;
+	padding:80px 0px;
+}
+.feature-section .title{
+	width:100%;
+	padding:15px 0px 15px;
+}
+
+.feature-section .title h5{
+	color: #008ed6;
+	font-size: 18px
+	line-height:28px;
+	font-weight:600;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	
+}
+.feature-section .title h2{
+	color: #000;
+	font-size: 36px
+	line-height:46px;
+	font-weight:700;
+	letter-spacing: 3px;
+	margin: 5px 0px 15px;
+}
+.inner-feature{
+	width:100%;
+	padding:40px 30px;
+	text-align: center;
+}
+.inner-circle{
+	width:95px;
+	height:95px;
+	line-height: 95px;
+	border: 1px solid #eee;
+	border-radius: 100px;
+	margin: 0px auto 20px;
+	text-align: center;
+
+}
+
+.inner-feature h5{
+	color: #000;
+	font-size: 22px
+	font-weight:700;
+}
+.inner-feature p{
+	color: #b4b4b4;
+	font-size: 14px
+	line-height:24px;
+	font-weight:400;
+
+}
+/*feature section end*/
+
+/*about long section start*/
+.about-long{
+	width:100%;
+	padding:80px 0px;
+	border-top: 1px solid #eee;
+
+}
+
+.about-long .title{
+	width:100%;
+	padding:40px 0px 40px;
+}
+.about-long .title h5{
+	color: #008ed6;
+	font-size: 18px
+	line-height:28px;
+	font-weight:600;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	
+}
+.about-long .title h2{
+	color: #000;
+	font-size: 36px
+	line-height:46px;
+	font-weight:700;
+	letter-spacing: 3px;
+	margin: 5px 0px 15px;
+}
+.content{
+	width:100%;
+ }
+
+ .content p{
+ 	color: #b4b4b4;
+	font-size: 14px
+	line-height:24px;
+	font-weight:400;
+}
+
+.content .icons{
+ 	color: #000;
+	font-size: 14px;
+	line-height:36px;
+	font-weight:600;
+}
+.content .icons img {
+	margin: 0px 15px 0px 0px;
+}
+
+/*about long section end*/
+
+
+
+
+
+
+
+ 

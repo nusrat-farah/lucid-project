@@ -62,10 +62,9 @@ a, a:hover{
 }
 .banner .inner-banner h5{
 	color: #008ed6;
-	font-size: 18px
-	line-height:28px;
+	font-size: 14px;
+	line-height:24px;
 	font-weight:600;
-	letter-spacing: 3px;
 	text-transform: uppercase;
 	
 }
@@ -74,13 +73,12 @@ a, a:hover{
 	font-size: 42px
 	line-height:45px;
 	font-weight:600;
-	letter-spacing: 3px;
 	margin: 15px 0px 15px;
 }
 .banner .inner-banner p{
 	color: #616162;
-	font-size: 16px
-	line-height:26px;
+	font-size: 14px;
+	line-height:24px;
 	font-weight:500;
 
 }
@@ -143,19 +141,17 @@ a, a:hover{
 
 .feature-section .title h5{
 	color: #008ed6;
-	font-size: 18px
-	line-height:28px;
+	font-size: 14px;
+	line-height:24px;
 	font-weight:600;
-	letter-spacing: 3px;
 	text-transform: uppercase;
 	
 }
 .feature-section .title h2{
 	color: #000;
-	font-size: 36px
-	line-height:46px;
-	font-weight:700;
-	letter-spacing: 3px;
+	font-size: 32px;
+	line-height:42px;
+	font-weight:600;
 	margin: 5px 0px 15px;
 }
 .inner-feature{
@@ -176,12 +172,12 @@ a, a:hover{
 
 .inner-feature h5{
 	color: #000;
-	font-size: 22px
-	font-weight:700;
+	font-size: 16px;
+	font-weight:600;
 }
 .inner-feature p{
 	color: #b4b4b4;
-	font-size: 14px
+	font-size: 14px;
 	line-height:24px;
 	font-weight:400;
 
@@ -202,19 +198,17 @@ a, a:hover{
 }
 .about-long .title h5{
 	color: #008ed6;
-	font-size: 18px
-	line-height:28px;
+	font-size: 14px;
+	line-height:24px;
 	font-weight:600;
-	letter-spacing: 3px;
 	text-transform: uppercase;
 	
 }
 .about-long .title h2{
 	color: #000;
-	font-size: 36px
-	line-height:46px;
-	font-weight:700;
-	letter-spacing: 3px;
+	font-size: 32px;
+	line-height:42px;
+	font-weight:600;
 	margin: 5px 0px 15px;
 }
 .content{
@@ -223,9 +217,10 @@ a, a:hover{
 
  .content p{
  	color: #b4b4b4;
-	font-size: 14px
+	font-size: 14px;
 	line-height:24px;
 	font-weight:400;
+	
 }
 
 .content .icons{
@@ -274,10 +269,6 @@ a, a:hover{
 }
 
 /*about-short section end*/
-
-
-
-
 
 
 

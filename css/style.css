@@ -239,6 +239,43 @@ a, a:hover{
 }
 
 /*about long section end*/
+/*about-short section start*/
+
+.about-short{
+	width:100%;
+	background: url(../images/short.png) center top no-repeat;
+	background-size: cover; 
+	padding:90px 0px;
+}
+
+.about-short .title h5{
+	color: #008ed6;
+	font-size: 14px;
+	line-height:24px;
+	font-weight:600;
+	text-transform: uppercase;
+	
+}
+.about-short .title h2{
+	color: #000;
+	font-size: 32px;
+	line-height:42px;
+	font-weight:600;
+	margin: 5px 0px 15px;
+}
+
+.about-short .title p{
+	color: #b4b4b4;
+	font-size: 14px
+	line-height:24px;
+	font-weight:400;
+	margin: 10px 0px 15px;
+
+}
+
+/*about-short section end*/
+
+
 
 
 
